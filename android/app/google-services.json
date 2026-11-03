@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11894580718",
+    "project_id": "wildlife-alert-app",
+    "storage_bucket": "wildlife-alert-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11894580718:android:02df5cc8b263c362e9daff",
+        "android_client_info": {
+          "package_name": "com.SMoKR.wildlife_alert_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6xakcF8jsZIWA4BTe0VMChzqSGznZBsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
